@@ -1,6 +1,5 @@
 ﻿using System.Web.Mvc;
 using BootstrapSupport;
-
 namespace BootstrapMvcSample.Controllers
 {
     public class BootstrapBaseController: Controller

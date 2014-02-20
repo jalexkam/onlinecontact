@@ -1,4 +1,4 @@
-﻿Namespace Application
+﻿Namespace Controllers
     Public Class ContactController
         Inherits System.Web.Mvc.Controller
 

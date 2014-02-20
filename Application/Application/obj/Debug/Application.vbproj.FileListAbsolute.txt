@@ -30,13 +30,7 @@ C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Applic
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\WebMatrix.WebData.dll
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\EntityFramework.xml
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\Newtonsoft.Json.xml
-C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\System.Net.Http.xml
-C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\System.Net.Http.Formatting.xml
-C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\System.Net.Http.WebRequest.xml
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\System.Web.Helpers.xml
-C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\System.Web.Http.xml
-C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\System.Web.Http.WebHost.xml
-C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\System.Web.Mvc.xml
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\System.Web.Razor.xml
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\System.Web.WebPages.xml
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\System.Web.WebPages.Deployment.xml
@@ -50,9 +44,11 @@ C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Applic
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\DotNetOpenAuth.OAuth.xml
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\DotNetOpenAuth.OpenId.xml
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\obj\Debug\Application.vbprojResolveAssemblyReference.cache
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\obj\Debug\Application.Resources.resources
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\obj\Debug\Application.vbproj.GenerateResource.Cache
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\obj\Debug\Application.dll
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\obj\Debug\Application.xml
 C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\obj\Debug\Application.pdb
+C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\Microsoft.Web.Infrastructure.xml
+C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\obj\Debug\Application.vbprojResolveAssemblyReference.cache
+C:\dev\MusicStore\githubprojects\onlinecontacts\onlinecontact\Application\Application\bin\WebActivator.dll
