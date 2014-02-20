@@ -231,6 +231,8 @@
     <Content Include="App_Start\BootstrapBundleConfig.cs" />
     <Content Include="App_Start\ExampleLayoutsRouteConfig.cs" />
     <Content Include="BootstrapSupport\ControlGroupExtensions.cs" />
+    <Content Include="BootstrapSupport\HtmlHelpers\GlyphIcons.cs" />
+    <Content Include="BootstrapSupport\HtmlHelpers\Paging.cs" />
     <Content Include="BootstrapSupport\ViewHelperExtensions.cs" />
     <Content Include="Content\body.css" />
     <Content Include="Content\bootstrap-mvc-validation.css" />
@@ -244,6 +246,8 @@
     <Content Include="Content\images\glyphicons-halflings-white.png" />
     <Content Include="Content\images\glyphicons-halflings.png" />
     <Content Include="Controllers\BootstrapBaseController.cs" />
+    <Content Include="Controllers\ExampleLayoutsController.cs" />
+    <Content Include="Controllers\HomeController.cs" />
     <Content Include="fonts\fontawesome-webfont.eot" />
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.woff" />
@@ -363,6 +367,8 @@
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Models\HomeInputModel.cs" />
+    <Content Include="NavigationRouteFilterExamples\AdministrationRouteFilter.cs" />
     <Content Include="NavigationRoutes\INavigationRouteFilter.cs" />
     <Content Include="NavigationRoutes\NamedRoute.cs" />
     <Content Include="NavigationRoutes\NavigationExtensions.cs" />
@@ -390,6 +396,12 @@
     <Content Include="Views\Shared\_alerts.cshtml" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Contact\Index.vbhtml" />
+    <Content Include="Views\ExampleLayouts\TBD.cshtml" />
+    <Content Include="Views\ExampleLayouts\Starter.cshtml" />
+    <Content Include="Views\ExampleLayouts\SignIn.cshtml" />
+    <Content Include="Views\ExampleLayouts\Narrow.cshtml" />
+    <Content Include="Views\ExampleLayouts\Marketing.cshtml" />
+    <Content Include="Views\ExampleLayouts\Fluid.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon.ico" />
